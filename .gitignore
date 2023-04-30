@@ -230,3 +230,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/WeatherForecast.cs
+/WeatherForecast.cs
+/Controllers/WeatherForecastController.cs
+/ClientApp/src/components/Counter.js
+/ClientApp/src/components/FetchData.js
